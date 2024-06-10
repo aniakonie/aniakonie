@@ -7,11 +7,8 @@ Currently, I'm mainly interested in building web applications using Python with 
 
 You'll find my main project here: www.mysoundarchive.com<br>
 <br>
-You can here me talking about this project and see it in action here:
-<br>
-<p align="center">
-  [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/QGGCimXKGMQ/0.jpg)](https://www.youtube.com/watch?v=QGGCimXKGMQ)
-</p>
+You can here me talking about this project and see it in action here: https://www.youtube.com/watch?v=QGGCimXKGMQ
+
 
 #
 
